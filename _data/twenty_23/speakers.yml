@@ -1,0 +1,27 @@
+- title: Pierre Noizat
+  name: Pierre_Noizat
+  subtitle: CEO & Fondateur de Paymium
+  img: PN_bitcoinference.jpg
+  thumbnail: PN_bc_tn.jpg
+  alt: Picture of TBD
+  topic: Bitcoin
+  description: More Info
+
+
+- title: Sébastien Gouspillou
+  name: Sébastien_Gouspillou
+  subtitle: Co-fondateur de BigBlock Group
+  img: SG_bitcoinference.jpg
+  thumbnail: SG_bc_tn.jpg
+  alt: Picture of TBD
+  topic: Mining
+  description: More Info
+
+- title: Benoit Couty
+  name: Benoit_Couty
+  subtitle: Cofondateur de la NFT Factory
+  img: BC_bitcoinference.jpg
+  thumbnail: TBD.jpg
+  alt: BC_bc_tn of TBD
+  topic: NFT
+  description: More Info
