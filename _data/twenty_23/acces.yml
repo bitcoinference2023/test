@@ -1,0 +1,11 @@
+- transport: En voiture
+  detail: "Parking le plus proche à 250m : Parking des Frênes, All. des Frênes, 44500 La Baule-Escoublac"
+  duree: "Depuis Paris : 4h45 de trajet.Depuis Nantes : 1h15 de trajet. Depuis Rennes :2h de trajet"
+
+- transport: En train 
+  detail: "Gare de La Baule-Escoublac à 650m"
+  duree: "Depuis Paris : 3h de TGV sans correspondance. Depuis Nantes : 50mn de TGV ou 1h de TER sans correspondance. Depuis Rennes : 2h30 de TGV et TER avec une correspondance"
+
+- transport: En avion
+  detail: "Aéroport de Nantes Atlantique à 80km, ou 1h de trajet en voiture ou en bus."
+  duree: ""

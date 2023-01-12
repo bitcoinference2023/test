@@ -17,6 +17,7 @@ html {
   box-sizing: inherit;
 }
 
+
 body {
     position: absolute;
     margin: 0;
@@ -105,6 +106,9 @@ aside.clients {
     padding-bottom: 100px;
 }
 
+.white {
+    color:white; 
+}
 aside.clients,
 .bg-light-gray {
     background-color: #{{site.data.template.color.bc-grey}};
@@ -459,7 +463,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
+    background: #{{site.data.template.color.bc-green}};
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
