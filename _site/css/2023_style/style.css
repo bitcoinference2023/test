@@ -106,6 +106,8 @@ h4 {
 
 .img-centered {
     margin: 0 auto;
+    width :360px;
+    height : 339px;
 }
 
 aside.clients {
@@ -359,7 +361,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/css/2023_style/img/bg-labaule.jpg');
+    background-image: url('/css/2023_style/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
