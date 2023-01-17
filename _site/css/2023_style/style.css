@@ -210,9 +210,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #12dfac;
+    border-color: #485acc;
     color: #fff;
-    background-color: #11232d;
+    background-color: #485acc;
 }
 
 .btn-sm:active,
@@ -309,7 +309,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #ffffff;
+    color: #12dfac;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -321,7 +321,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #ffffff;
+    background-color: #12dfac;
 }
 
 @media(min-width:768px) {
@@ -417,7 +417,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 80px 0;
 }
 
 aside.clients h2,
@@ -443,7 +443,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 90px 0;
     }
 }
 
