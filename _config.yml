@@ -2,7 +2,7 @@ title: Bitcoinference 2023
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jonathans81.github.io" # the base hostname & protocol for your site
+url: "https://bitcoinference.fr/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
